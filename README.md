@@ -37,7 +37,7 @@ OPENAI_API_KEY = your-openai-api-key
 5. Start the development server
 
 ```
-npm start
+node index.js
 ```
 
 The app will now be running at `http://localhost:3000`.
